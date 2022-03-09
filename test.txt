@@ -5,5 +5,3 @@ second line
 third line
 
 git push
-
-git pull
